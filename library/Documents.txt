@@ -1,0 +1,35 @@
+Library Management System has two modules:
+
+Admin Module
+Student Module
+For Admin Module Features:
+Admin Dashboard
+Can manage category
+Manage author
+Book Management
+Admin can issue a new book to a student
+Update the details when the student returns the book
+Search student by using their student ID
+View student details
+Change own password
+
+For Students Module Features:
+Register yourself and after registration; they will get student id
+Student can view the dashboard,
+Update personal profile,
+View issued book and book return date-time.
+Change their password, and
+Recover personal password.
+
+
+Log in Credentials:
+Admin:
+Username: admin
+Password: admin
+
+Technology For Development
+HTML
+CSS
+PHP
+MySql
+Bootstrap 3
